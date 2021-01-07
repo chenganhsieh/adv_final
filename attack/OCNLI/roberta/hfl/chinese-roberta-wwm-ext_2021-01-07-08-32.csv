@@ -1,0 +1,4 @@
+"ground_truth_output","num_queries","original_output","original_score","original_text","perturbed_output","perturbed_score","perturbed_text","result_type"
+0.0,314.0,0.0,0.00024396181106567383,"[[[[Premise]]]]: 身上 裹 一件 工厂 发 的 棉大衣 , 手 插 在 袖筒 里
+[[[[Hypothesis]]]]: 身上 [[至少]] 一件 衣服",1.0,0.9984312653541565,"[[[[Premise]]]]: 身上 裹 一件 工厂 发 的 棉大衣 , 手 插 在 袖筒 里
+[[[[Hypothesis]]]]: 身上 [[另]] 一件 [[毛]] 衣服","Successful"
